@@ -32,11 +32,7 @@ Capture the current location using LAN.
 Capture an image via the USB camera.
 Send an email with the location and image to the specified contacts.
 
-# 📷 Example Alert
-An example of the email alert includes
 
-Location:https://www.google.com/maps/search/?api=1&query=20.0024,73.7945
-Image:![Alert Image](images/WhatsApp Image 2024-11-01 at 08.35.46_08703ab8.jpg)
 
 
 
